@@ -1,0 +1,5 @@
+Modules required:
+discord.js
+Other things required:
+Discord bot user
+Discord bot token

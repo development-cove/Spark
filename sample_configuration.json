@@ -1,0 +1,13 @@
+{
+    "permissions": {
+        "administrators": [
+            "000000000000000000"
+        ]
+    },
+    "commands": {
+        "prefix": "!"
+    },
+    "plugins": {
+        "utilities": {}
+    }
+}

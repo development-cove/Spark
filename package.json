@@ -1,0 +1,17 @@
+{
+    "name": "bot_name_goes_here",
+    "version": "Your bot's version goes here.",
+    "description": "Your bot's description goes here.",
+    "main": "client.js",
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Your name goes here.",
+    "license": "ISC",
+    "dependencies": {
+      "discord.js": "^11.5.1"
+    }
+  }
+  
